@@ -23,11 +23,9 @@ public class Soal5 {
         for (int i = 0; i < hargaTiket.length; i++) {
             System.out.print("Harga tiket film " + (i + 1) + ":");
             hargaTiket[i] = sc.nextInt();
+            totalHargaTiket += hargaTiket[i];
         }
 
-        for(int tiket : hargaTiket){
-            totalHargaTiket += tiket;
-        }
 
         System.out.println("Total harga tiket: " + totalHargaTiket);
     }
