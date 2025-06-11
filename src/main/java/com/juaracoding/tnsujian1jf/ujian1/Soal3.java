@@ -32,7 +32,7 @@ public class Soal3 {
             totalhargaTiket = jumlahTiket * hargaTiketWeekend;
         }else {
             System.out.println("Data Input Invalid");
-        };
+        }
 
         if (jumlahTiket > 5) {
             totalhargaTiket = (int) (totalhargaTiket - (totalhargaTiket * 0.1));
