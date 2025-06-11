@@ -31,7 +31,7 @@ public class Soal3 {
         } else if(hariPemesanan.equalsIgnoreCase("Sabtu") || hariPemesanan.equalsIgnoreCase("Minggu")) {
             totalhargaTiket = jumlahTiket * hargaTiketWeekend;
         }else {
-            System.out.println("Data Input Invalid");
+            System.out.println("Data Input Hari Invalid");
         }
 
         if (jumlahTiket > 5) {

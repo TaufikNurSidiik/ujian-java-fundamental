@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82002e5f-47f4-4235-8d8b-7b2847805186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="82002e5f-47f4-4235-8d8b-7b2847805186" name="Changes" comment="Sudah selesai">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/tnsujian1jf/ujian1/Soal3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +57,7 @@
     "Application.Soal2.executor": "Run",
     "Application.Soal3.executor": "Run",
     "Application.Soal4.executor": "Run",
+    "Application.Soal5.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,7 +71,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Soal5">
+  <component name="RunManager" selected="Application.Soal3">
     <configuration name="Soal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.juaracoding.tnsujian1jf.ujian1.Soal1" />
       <module name="ujian-java-fundamental" />
@@ -144,9 +139,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soal3" />
         <item itemvalue="Application.Soal5" />
         <item itemvalue="Application.Soal4" />
-        <item itemvalue="Application.Soal3" />
         <item itemvalue="Application.Soal2" />
         <item itemvalue="Application.Soal1" />
       </list>
@@ -168,11 +163,40 @@
       <option name="presentableId" value="Default" />
       <updated>1749628406844</updated>
       <workItem from="1749628407807" duration="43000" />
-      <workItem from="1749629256407" duration="3925000" />
+      <workItem from="1749629256407" duration="4367000" />
     </task>
+    <task id="LOCAL-00001" summary="Sudah selesai">
+      <option name="closed" value="true" />
+      <created>1749633305954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749633305954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sudah selesai">
+      <option name="closed" value="true" />
+      <created>1749633440267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749633440267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sudah selesai">
+      <option name="closed" value="true" />
+      <created>1749633454708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749633454708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sudah selesai" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sudah selesai" />
   </component>
 </project>
